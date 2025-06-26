@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekkm8088
 - 👀 I’m interested in coding 
-- 🌱 I’m currently pursuing master's in computer science 
+- 🌱 I’m currently working at ibm 
 - 📫 How to reach me 8088690177
 
 <!---
